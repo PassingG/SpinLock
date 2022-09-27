@@ -50,6 +50,8 @@ class SpinLock
             {
                 break;
             }
+
+            Thread.Yield();
         }
     }
 
