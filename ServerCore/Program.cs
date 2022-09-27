@@ -2,9 +2,20 @@
 {
     private static void Main(string[] args)
     {
+
+    }
+}
+
+class SpinLock
+{
+    private bool _locked = false;
+
+    private void Acquire()
+    {
+
     }
 
-    static void ThreadMain()
+    private void Release()
     {
 
     }
