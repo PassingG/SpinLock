@@ -1,0 +1,15 @@
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/bin/Debug/net6.0/ServerCore
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/bin/Debug/net6.0/ServerCore.deps.json
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/bin/Debug/net6.0/ServerCore.runtimeconfig.json
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/bin/Debug/net6.0/ServerCore.dll
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/bin/Debug/net6.0/ServerCore.pdb
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ServerCore.csproj.AssemblyReference.cache
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ServerCore.AssemblyInfoInputs.cache
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ServerCore.AssemblyInfo.cs
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ServerCore.csproj.CoreCompileInputs.cache
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ServerCore.dll
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/refint/ServerCore.dll
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ServerCore.pdb
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ServerCore.genruntimeconfig.cache
+/Users/hyunmyunghan/Documents/GitHub/ServerPractice/SpinLock/ServerCore/obj/Debug/net6.0/ref/ServerCore.dll
